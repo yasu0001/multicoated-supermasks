@@ -20,7 +20,7 @@ mim train mmlcs <path/to/configs> <args>
 
 #### Exapmle Run
 ```sh
-mim train mmlcs configs/hoge/hogehoge --gpus 4 --launcher pytorch
+mim train mmlcs configs/imagenet/resnet50-linear-0.7-3.py --gpus 4 --launcher pytorch
 ```
 
 #### Expected Results and Pretrained Models
