@@ -1,6 +1,8 @@
 # Multicoated Supermasks Enhance Hidden Networks
 by Yasuyuki Okoshi*, Ángel López García-Arias*, Kazutoshi Hirose, Kazushi Kawamura, Thiem Van Chu, Masato Motomura, Jaehoon Yu*
 
+[Paper](https://proceedings.mlr.press/v162/okoshi22a.html)
+
 ## Experimental Environment
 Python == 3.9
 Pytorch == 1.10.0
